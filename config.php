@@ -49,7 +49,7 @@ $VDN_CONFIG = array(
     'coordinateurs_bsf' => array(
         'autre'=>array(
             'label'=>'Autre', 
-            'email'=>'salome.hurel+sitevdn@bibliosansfrontieres.org'
+            'email'=>'voyageursdunumerique+sitevdn@bibliosansfrontieres.org'
         ),
         'PACA'=>array(
             'label'=>'Région PACA', 
